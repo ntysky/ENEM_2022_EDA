@@ -1,5 +1,5 @@
 # ENEM_2022_EDA
-Análise exploratória dos microdados do Enem de 2022.
+Exploratory analysis of microdata from the 2022 ENEM (Brazilian national high school exam).
 
-ANÁLISE EXPLORATÓRIA DE DADOS (EDA)
-- É um recurso da Ciência de Dados que visa extrair insights e informações valiosas de conjuntos de dados brutos.
+Exploratory Data Analysis (EDA)
+- This project uses a Data Science tool to extract valuable insights and information from raw datasets.
